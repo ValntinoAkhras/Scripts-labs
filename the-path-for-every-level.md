@@ -1,6 +1,3 @@
-**Module 3** formatted for your GitHub.
-
----
 
 # Module 3: Operational Missions (Tasks)
 
