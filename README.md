@@ -12,10 +12,5 @@ Linux as host use virt-manager
 windows server core(the normal one but chose the that one without gui)
 ---
 
-
-
-
-
-
-
+<img width="1408" height="768" alt="Gemini_Generated_Image_qo0c6xqo0c6xqo0c" src="https://github.com/user-attachments/assets/af2038b1-fd8d-434f-bbaa-b1a75e9c541a" />
 
