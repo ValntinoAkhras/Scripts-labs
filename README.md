@@ -1,5 +1,5 @@
-# Scripts-labs
-Try-One
+"This lab is designed to be a hands-on experience. I intentionally left out basic administrative tasks (like how to transfer scripts to VMs or troubleshoot KVM networking) to encourage you to research and learn the 'IT Admin' side of things. If you get stuck, the solution is just one Google search away!"
+
 ---
 ## DVAD-Damen-Vulnerable-Active-Dirctory V1
 
