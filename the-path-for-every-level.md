@@ -41,5 +41,3 @@ This module defines the mission objectives for each difficulty tier in **DVAD-Da
 
 ---
 To "complete" the lab, you should be able to reset the environment and clear all three levels in a single session without referring to outside notes.
-
-**How does this mission structure look to you, Valentino? It gives the student a clear path without spoiling the "Aha!" moment of the hack.**
