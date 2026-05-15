@@ -1,11 +1,4 @@
 
-Here is a complete, well-structured `README.md` file tailored for your GitHub repository. It perfectly highlights how your script bridges the gap between being a beginner and mastering Nmap CLI flags.
-
-You can copy and paste the code block below directly into your repository.
-
----
-
-markdown
 # 🗺️ Nmap Tutor: The Interactive Modular Scanner
 
 An interactive Bash wrapper for Nmap designed specifically for beginners and students. This script guides you through the process of building complex Nmap scans step-by-step, explaining the options along the way, and **reveals the exact Nmap command** it builds before executing it.
